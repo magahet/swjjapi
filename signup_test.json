@@ -1,0 +1,27 @@
+{
+   "id":"signup",
+   "name":"John Doe",
+   "phone":"123-456-7890",
+   "request":"blah",
+   "token":"tok_visa",
+   "cost":57000,
+   "sessions":[
+      {
+         "name":"jane",
+         "birthday":"2011-11-11",
+         "level":"comfortable putting his or her face in the water",
+         "sessions":[
+            1,
+            2
+         ]
+      },
+      {
+         "name":"josh",
+         "birthday":"2002-02-22",
+         "level":"comfortable putting his or her face in the water",
+         "sessions":[
+            1
+         ]
+      }
+   ]
+}
